@@ -4,7 +4,7 @@
   <groupId>com.javacodegeeks</groupId>
   <artifactId>Sampleaman</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>${MAJOR}.${MINOR}.${bUILD_NUMBER}</version>
   <name>Sampleaman</name>
   <url>http://maven.apache.org</url>
   <dependencies>
